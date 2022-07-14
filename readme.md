@@ -1,3 +1,7 @@
+Note: If you are interested in using this, you are likely looking for the main repo: https://github.com/lukasbach/gfont-cloudless
+
+This is my own fork with my own font configuration.
+
 # gfont-cloudless
 
 > A small automated repo template for self-hosting google fonts without relying on google host servers.
